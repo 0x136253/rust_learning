@@ -5,5 +5,6 @@ members = [
     "deref_trait",
     "drop_trait",
     "rc_pointer",
-    "refcell_pointer"
+    "refcell_pointer",
+    "reference_cycle"
 ]

@@ -21,3 +21,7 @@ version = "0.1.0"
 [[package]]
 name = "refcell_pointer"
 version = "0.1.0"
+
+[[package]]
+name = "reference_cycle"
+version = "0.1.0"
