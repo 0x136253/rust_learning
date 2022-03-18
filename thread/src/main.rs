@@ -1,20 +1,24 @@
+use std::rc::Rc;
 use std::thread;
 use std::time::Duration;
+use std::sync::{mpsc,Mutex,Arc};
 
 fn main() {
-    let v = vec![1,2,3];
+    let counter = Arc::new(Mutex::new(0));
+    let mut handles = vec![];
 
-    let handle = thread::spawn(move ||{
-        println!("Here's a vector: {:?}",v);
-    });
-
-    handle.join().unwrap();
-
-    for i in 1..5 {
-        println!("hi number {} from the main thread!",i);
-        thread::sleep(Duration::from_millis(1));
+    for _ in 0..10 {
+        let counter = Arc::clone(&counter);
+        let handle = thread::spawn(move || {
+            let mut num = counter.lock().unwrap();
+            *num += 1;
+        });
+        handles.push(handle);
     }
 
-    // handle.join().unwrap();
-    println!("Hello, world!");
+    for handle in handles {
+        handle.join().unwrap();
+    }
+
+    println!("Result: {}", *counter.lock().unwrap());
 }
