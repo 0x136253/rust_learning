@@ -1,0 +1,2374 @@
+{
+    "style": {
+        "width": 100,
+        "height": 120,
+        "isMini": false,
+        "curHeight": 403,
+        "curWidth": 819,
+        "scale": 1
+    },
+    "nodes": [
+        {
+            "outputs": [
+                {
+                    "access": "SAME",
+                    "left": 90,
+                    "columns": "[]",
+                    "cat": "DATA",
+                    "description": "输出",
+                    "model": false,
+                    "id": "10002149_0_1",
+                    "type": "OUTPUT",
+                    "value": "881",
+                    "key": "data_out",
+                    "canPreview": true
+                }
+            ],
+            "outputData": [
+                {
+                    "key": "database",
+                    "dataFields": [
+                        {
+                            "dataType": "numeric",
+                            "values": 0,
+                            "name": "label",
+                            "index": 0,
+                            "otherParam": 0
+                        },
+                        {
+                            "dataType": "numeric",
+                            "values": 58737,
+                            "name": "number",
+                            "index": 1,
+                            "otherParam": 0
+                        },
+                        {
+                            "dataType": "numeric",
+                            "values": 0,
+                            "name": "ft_tag_gender",
+                            "index": 2,
+                            "otherParam": 0
+                        },
+                        {
+                            "dataType": "text",
+                            "values": "35-44",
+                            "name": "ft_tag_age",
+                            "index": 3,
+                            "otherParam": 0
+                        },
+                        {
+                            "dataType": "numeric",
+                            "values": 2,
+                            "name": "ft_tag_marrige",
+                            "index": 4,
+                            "otherParam": 0
+                        },
+                        {
+                            "dataType": "numeric",
+                            "values": 0,
+                            "name": "ft_tag_bourgeois",
+                            "index": 5,
+                            "otherParam": 0
+                        },
+                        {
+                            "dataType": "text",
+                            "values": "",
+                            "name": "ft_tag_education",
+                            "index": 6,
+                            "otherParam": 0
+                        },
+                        {
+                            "dataType": "numeric",
+                            "values": 0,
+                            "name": "ft_tag_parent_0to2y",
+                            "index": 7,
+                            "otherParam": 0
+                        },
+                        {
+                            "dataType": "numeric",
+                            "values": 0,
+                            "name": "ft_tag_parent_3to6y",
+                            "index": 8,
+                            "otherParam": 0
+                        },
+                        {
+                            "dataType": "numeric",
+                            "values": 0,
+                            "name": "ft_tag_parent_k1tok6",
+                            "index": 9,
+                            "otherParam": 0
+                        },
+                        {
+                            "dataType": "numeric",
+                            "values": 1,
+                            "name": "ft_tag_parent_k7tok12",
+                            "index": 10,
+                            "otherParam": 0
+                        },
+                        {
+                            "dataType": "numeric",
+                            "values": 0,
+                            "name": "ft_tag_primary_purchaser",
+                            "index": 11,
+                            "otherParam": 0
+                        },
+                        {
+                            "dataType": "numeric",
+                            "values": 1,
+                            "name": "parent",
+                            "index": 12,
+                            "otherParam": 0
+                        },
+                        {
+                            "dataType": "numeric",
+                            "values": 0,
+                            "name": "mother",
+                            "index": 13,
+                            "otherParam": 0
+                        },
+                        {
+                            "dataType": "numeric",
+                            "values": 1,
+                            "name": "ft_dev_timezone",
+                            "index": 14,
+                            "otherParam": 0
+                        },
+                        {
+                            "dataType": "numeric",
+                            "values": 3,
+                            "name": "ft_lbs_same_night_stay_wifimac_cnt_v2",
+                            "index": 15,
+                            "otherParam": 0
+                        },
+                        {
+                            "dataType": "numeric",
+                            "values": 0,
+                            "name": "ft_tag_industry_it",
+                            "index": 16,
+                            "otherParam": 0
+                        },
+                        {
+                            "dataType": "numeric",
+                            "values": 0,
+                            "name": "ft_tag_industry_financial",
+                            "index": 17,
+                            "otherParam": 0
+                        },
+                        {
+                            "dataType": "numeric",
+                            "values": 0,
+                            "name": "ft_tag_industry_ad",
+                            "index": 18,
+                            "otherParam": 0
+                        },
+                        {
+                            "dataType": "numeric",
+                            "values": 0,
+                            "name": "ft_tag_occupation_it",
+                            "index": 19,
+                            "otherParam": 0
+                        },
+                        {
+                            "dataType": "numeric",
+                            "values": 0,
+                            "name": "ft_tag_occupation_teacher",
+                            "index": 20,
+                            "otherParam": 0
+                        },
+                        {
+                            "dataType": "numeric",
+                            "values": 0,
+                            "name": "ft_tag_occupation_entrepreneur",
+                            "index": 21,
+                            "otherParam": 0
+                        },
+                        {
+                            "dataType": "numeric",
+                            "values": 0,
+                            "name": "ft_tag_occupation_medical",
+                            "index": 22,
+                            "otherParam": 0
+                        },
+                        {
+                            "dataType": "numeric",
+                            "values": 0,
+                            "name": "ft_tag_occupation_office",
+                            "index": 23,
+                            "otherParam": 0
+                        },
+                        {
+                            "dataType": "numeric",
+                            "values": 44000000,
+                            "name": "ft_tag_province",
+                            "index": 24,
+                            "otherParam": 0
+                        },
+                        {
+                            "dataType": "numeric",
+                            "values": 44030000,
+                            "name": "ft_tag_city",
+                            "index": 25,
+                            "otherParam": 0
+                        },
+                        {
+                            "dataType": "numeric",
+                            "values": 1,
+                            "name": "ft_tag_city_tier",
+                            "index": 26,
+                            "otherParam": 0
+                        },
+                        {
+                            "dataType": "numeric",
+                            "values": 1.1,
+                            "name": "ft_lbs_house_price_v2",
+                            "index": 27,
+                            "otherParam": 0
+                        },
+                        {
+                            "dataType": "numeric",
+                            "values": 3,
+                            "name": "ft_lbs_property_fee_v2",
+                            "index": 28,
+                            "otherParam": 0
+                        },
+                        {
+                            "dataType": "numeric",
+                            "values": 2,
+                            "name": "ft_tag_consumption_level",
+                            "index": 29,
+                            "otherParam": 0
+                        },
+                        {
+                            "dataType": "numeric",
+                            "values": 3,
+                            "name": "ft_tag_consumption_range",
+                            "index": 30,
+                            "otherParam": 0
+                        },
+                        {
+                            "dataType": "numeric",
+                            "values": 1.1,
+                            "name": "ft_gz_income_1_v2",
+                            "index": 31,
+                            "otherParam": 0
+                        },
+                        {
+                            "dataType": "numeric",
+                            "values": 2,
+                            "name": "ft_gz_car_price_v2",
+                            "index": 32,
+                            "otherParam": 0
+                        },
+                        {
+                            "dataType": "numeric",
+                            "values": 1.1,
+                            "name": "ft_gz_housing_price_homeaddr_cnt_v2",
+                            "index": 33,
+                            "otherParam": 0
+                        },
+                        {
+                            "dataType": "numeric",
+                            "values": 1.1,
+                            "name": "ft_cross_tag_city_level4_housing_price_v2",
+                            "index": 34,
+                            "otherParam": 0
+                        },
+                        {
+                            "dataType": "numeric",
+                            "values": 1.1,
+                            "name": "ft_cross_tag_city_level3_housing_price_v2",
+                            "index": 35,
+                            "otherParam": 0
+                        },
+                        {
+                            "dataType": "numeric",
+                            "values": 1.1,
+                            "name": "ft_cross_tag_city_level2_housing_price_v2",
+                            "index": 36,
+                            "otherParam": 0
+                        },
+                        {
+                            "dataType": "numeric",
+                            "values": 1,
+                            "name": "ft_cross_tag_city_level1_housing_price_v2",
+                            "index": 37,
+                            "otherParam": 0
+                        },
+                        {
+                            "dataType": "text",
+                            "values": "",
+                            "name": "ft_cross_tag_city_level4_price_v2",
+                            "index": 38,
+                            "otherParam": 0
+                        },
+                        {
+                            "dataType": "numeric",
+                            "values": 1.1,
+                            "name": "ft_cross_tag_city_level3_price_v2",
+                            "index": 39,
+                            "otherParam": 0
+                        },
+                        {
+                            "dataType": "numeric",
+                            "values": 1.1,
+                            "name": "ft_cross_tag_city_level2_price_v2",
+                            "index": 40,
+                            "otherParam": 0
+                        },
+                        {
+                            "dataType": "numeric",
+                            "values": 2,
+                            "name": "ft_cross_tag_city_level1_price_v2",
+                            "index": 41,
+                            "otherParam": 0
+                        },
+                        {
+                            "dataType": "numeric",
+                            "values": 1,
+                            "name": "ft_tag_car_ownership_v2",
+                            "index": 42,
+                            "otherParam": 0
+                        },
+                        {
+                            "dataType": "numeric",
+                            "values": 1,
+                            "name": "ft_tag_property_owner_v2",
+                            "index": 43,
+                            "otherParam": 0
+                        },
+                        {
+                            "dataType": "numeric",
+                            "values": 548,
+                            "name": "ft_asset_score_a_rule",
+                            "index": 44,
+                            "otherParam": 0
+                        },
+                        {
+                            "dataType": "numeric",
+                            "values": 4,
+                            "name": "ft_asset_score_b_rule",
+                            "index": 45,
+                            "otherParam": 0
+                        },
+                        {
+                            "dataType": "numeric",
+                            "values": 549,
+                            "name": "ft_asset_score_c_rule",
+                            "index": 46,
+                            "otherParam": 0
+                        },
+                        {
+                            "dataType": "numeric",
+                            "values": 3,
+                            "name": "ft_asset_score_d_rule",
+                            "index": 47,
+                            "otherParam": 0
+                        },
+                        {
+                            "dataType": "numeric",
+                            "values": 563,
+                            "name": "ft_asset_score_e_rule",
+                            "index": 48,
+                            "otherParam": 0
+                        },
+                        {
+                            "dataType": "numeric",
+                            "values": 3,
+                            "name": "ft_asset_score_f_rule",
+                            "index": 49,
+                            "otherParam": 0
+                        },
+                        {
+                            "dataType": "numeric",
+                            "values": 4,
+                            "name": "ft_app_act_30d_online_shopping_cnt",
+                            "index": 50,
+                            "otherParam": 0
+                        },
+                        {
+                            "dataType": "numeric",
+                            "values": 14,
+                            "name": "ft_app_act_30d_online_shopping_times",
+                            "index": 51,
+                            "otherParam": 0
+                        },
+                        {
+                            "dataType": "numeric",
+                            "values": 4,
+                            "name": "ft_app_act_30d_online_shopping_days",
+                            "index": 52,
+                            "otherParam": 0
+                        },
+                        {
+                            "dataType": "numeric",
+                            "values": 2,
+                            "name": "ft_app_act_30d_travel_cnt",
+                            "index": 53,
+                            "otherParam": 0
+                        },
+                        {
+                            "dataType": "numeric",
+                            "values": 2,
+                            "name": "ft_app_act_30d_travel_times",
+                            "index": 54,
+                            "otherParam": 0
+                        },
+                        {
+                            "dataType": "numeric",
+                            "values": 2,
+                            "name": "ft_app_act_30d_travel_days",
+                            "index": 55,
+                            "otherParam": 0
+                        },
+                        {
+                            "dataType": "numeric",
+                            "values": 1,
+                            "name": "ft_app_act_30d_discounts_cnt",
+                            "index": 56,
+                            "otherParam": 0
+                        },
+                        {
+                            "dataType": "numeric",
+                            "values": 4,
+                            "name": "ft_app_act_30d_discounts_times",
+                            "index": 57,
+                            "otherParam": 0
+                        },
+                        {
+                            "dataType": "numeric",
+                            "values": 3,
+                            "name": "ft_app_act_30d_discounts_days",
+                            "index": 58,
+                            "otherParam": 0
+                        },
+                        {
+                            "dataType": "numeric",
+                            "values": 2,
+                            "name": "ft_app_act_30d_market_cnt",
+                            "index": 59,
+                            "otherParam": 0
+                        },
+                        {
+                            "dataType": "numeric",
+                            "values": 9,
+                            "name": "ft_app_act_30d_market_times",
+                            "index": 60,
+                            "otherParam": 0
+                        },
+                        {
+                            "dataType": "numeric",
+                            "values": 4,
+                            "name": "ft_app_act_30d_market_days",
+                            "index": 61,
+                            "otherParam": 0
+                        },
+                        {
+                            "dataType": "numeric",
+                            "values": 4,
+                            "name": "ft_app_ins_current_online_shopping_cnt",
+                            "index": 62,
+                            "otherParam": 0
+                        },
+                        {
+                            "dataType": "numeric",
+                            "values": 12,
+                            "name": "ft_app_ins_history_online_shopping_cnt",
+                            "index": 63,
+                            "otherParam": 0
+                        },
+                        {
+                            "dataType": "numeric",
+                            "values": 3,
+                            "name": "ft_app_ins_current_travel_cnt",
+                            "index": 64,
+                            "otherParam": 0
+                        },
+                        {
+                            "dataType": "numeric",
+                            "values": 8,
+                            "name": "ft_app_ins_history_travel_cnt",
+                            "index": 65,
+                            "otherParam": 0
+                        },
+                        {
+                            "dataType": "numeric",
+                            "values": 1,
+                            "name": "ft_app_ins_current_discounts_cnt",
+                            "index": 66,
+                            "otherParam": 0
+                        },
+                        {
+                            "dataType": "numeric",
+                            "values": 8,
+                            "name": "ft_app_ins_history_discounts_cnt",
+                            "index": 67,
+                            "otherParam": 0
+                        },
+                        {
+                            "dataType": "numeric",
+                            "values": 2,
+                            "name": "ft_app_ins_current_market_cnt",
+                            "index": 68,
+                            "otherParam": 0
+                        },
+                        {
+                            "dataType": "numeric",
+                            "values": 7,
+                            "name": "ft_app_ins_history_market_cnt",
+                            "index": 69,
+                            "otherParam": 0
+                        },
+                        {
+                            "dataType": "numeric",
+                            "values": 3,
+                            "name": "ft_tag_shopping",
+                            "index": 70,
+                            "otherParam": 0
+                        },
+                        {
+                            "dataType": "numeric",
+                            "values": 0,
+                            "name": "ft_tag_purchaser",
+                            "index": 71,
+                            "otherParam": 0
+                        },
+                        {
+                            "dataType": "numeric",
+                            "values": 4,
+                            "name": "ft_lbs_hotel_4w_level",
+                            "index": 72,
+                            "otherParam": 0
+                        },
+                        {
+                            "dataType": "numeric",
+                            "values": 3,
+                            "name": "ft_lbs_hotel_4w_days",
+                            "index": 73,
+                            "otherParam": 0
+                        },
+                        {
+                            "dataType": "numeric",
+                            "values": 0,
+                            "name": "ft_tag_hotel",
+                            "index": 74,
+                            "otherParam": 0
+                        },
+                        {
+                            "dataType": "numeric",
+                            "values": 0,
+                            "name": "ft_tag_travel",
+                            "index": 75,
+                            "otherParam": 0
+                        },
+                        {
+                            "dataType": "numeric",
+                            "values": 0,
+                            "name": "ft_tag_residence",
+                            "index": 76,
+                            "otherParam": 0
+                        },
+                        {
+                            "dataType": "numeric",
+                            "values": 0.242,
+                            "name": "ft_lbs_home_cons_ls_high",
+                            "index": 77,
+                            "otherParam": 0
+                        },
+                        {
+                            "dataType": "numeric",
+                            "values": 0.156,
+                            "name": "ft_lbs_home_cons_ls_low",
+                            "index": 78,
+                            "otherParam": 0
+                        },
+                        {
+                            "dataType": "numeric",
+                            "values": 0.602,
+                            "name": "ft_lbs_home_cons_ls_middle",
+                            "index": 79,
+                            "otherParam": 0
+                        },
+                        {
+                            "dataType": "numeric",
+                            "values": 0.272,
+                            "name": "ft_lbs_pwoi_all_mostoften_consume_high",
+                            "index": 80,
+                            "otherParam": 0
+                        },
+                        {
+                            "dataType": "numeric",
+                            "values": 0.134,
+                            "name": "ft_lbs_pwoi_all_mostoften_consume_low",
+                            "index": 81,
+                            "otherParam": 0
+                        },
+                        {
+                            "dataType": "numeric",
+                            "values": 0.594,
+                            "name": "ft_lbs_pwoi_all_mostoften_consume_middle",
+                            "index": 82,
+                            "otherParam": 0
+                        },
+                        {
+                            "dataType": "numeric",
+                            "values": 0.244,
+                            "name": "ft_lbs_pwoi_all_often_consum_high",
+                            "index": 83,
+                            "otherParam": 0
+                        },
+                        {
+                            "dataType": "numeric",
+                            "values": 0.153,
+                            "name": "ft_lbs_pwoi_all_often_consum_low",
+                            "index": 84,
+                            "otherParam": 0
+                        },
+                        {
+                            "dataType": "numeric",
+                            "values": 0.603,
+                            "name": "ft_lbs_pwoi_all_often_consum_middle",
+                            "index": 85,
+                            "otherParam": 0
+                        },
+                        {
+                            "dataType": "numeric",
+                            "values": 0.242,
+                            "name": "ft_lbs_work_cons_ls_high",
+                            "index": 86,
+                            "otherParam": 0
+                        },
+                        {
+                            "dataType": "numeric",
+                            "values": 0.156,
+                            "name": "ft_lbs_work_cons_ls_low",
+                            "index": 87,
+                            "otherParam": 0
+                        },
+                        {
+                            "dataType": "numeric",
+                            "values": 0.602,
+                            "name": "ft_lbs_work_cons_ls_middle",
+                            "index": 88,
+                            "otherParam": 0
+                        },
+                        {
+                            "dataType": "numeric",
+                            "values": 555,
+                            "name": "ft_consumption_score_a_rule",
+                            "index": 89,
+                            "otherParam": 0
+                        },
+                        {
+                            "dataType": "numeric",
+                            "values": 5,
+                            "name": "ft_consumption_score_b_rule",
+                            "index": 90,
+                            "otherParam": 0
+                        },
+                        {
+                            "dataType": "numeric",
+                            "values": 550,
+                            "name": "ft_consumption_score_c_rule",
+                            "index": 91,
+                            "otherParam": 0
+                        },
+                        {
+                            "dataType": "numeric",
+                            "values": 4,
+                            "name": "ft_consumption_score_d_rule",
+                            "index": 92,
+                            "otherParam": 0
+                        },
+                        {
+                            "dataType": "numeric",
+                            "values": 563,
+                            "name": "ft_consumption_score_e_rule",
+                            "index": 93,
+                            "otherParam": 0
+                        },
+                        {
+                            "dataType": "numeric",
+                            "values": 7,
+                            "name": "ft_consumption_score_f_rule",
+                            "index": 94,
+                            "otherParam": 0
+                        },
+                        {
+                            "dataType": "numeric",
+                            "values": 2,
+                            "name": "ft_app_ins_current_finance_cnt",
+                            "index": 95,
+                            "otherParam": 0
+                        },
+                        {
+                            "dataType": "numeric",
+                            "values": 9,
+                            "name": "ft_app_ins_history_finance_cnt",
+                            "index": 96,
+                            "otherParam": 0
+                        },
+                        {
+                            "dataType": "numeric",
+                            "values": 0,
+                            "name": "ft_app_ins_current_gamble_cnt",
+                            "index": 97,
+                            "otherParam": 0
+                        },
+                        {
+                            "dataType": "numeric",
+                            "values": 0,
+                            "name": "ft_app_ins_history_gamble_cnt",
+                            "index": 98,
+                            "otherParam": 0
+                        },
+                        {
+                            "dataType": "numeric",
+                            "values": 0,
+                            "name": "ft_app_ins_current_insurance_cnt",
+                            "index": 99,
+                            "otherParam": 0
+                        }
+                    ]
+                }
+            ],
+            "inputData": [],
+            "inputs": [],
+            "tabs": [
+                {
+                    "tabName": "数据源",
+                    "createTime": "2022-02-23T08:35:33.704+0000",
+                    "elements": [
+                        {
+                            "visible": true,
+                            "defaultValue": "",
+                            "creatorId": 100,
+                            "creatorName": "admin",
+                            "toolTip": "",
+                            "label": "数据源",
+                            "required": true,
+                            "sequence": 1,
+                            "createTime": "2022-02-23T08:35:33.704+0000",
+                            "extra": {
+                                "datasourceItems": [
+                                    {
+                                        "name": "test04",
+                                        "id": "881"
+                                    }
+                                ],
+                                "key": "data_in",
+                                "tableName": "881"
+                            },
+                            "name": "datasource",
+                            "options": "",
+                            "id": 5942,
+                            "placeholder": "",
+                            "value": "881",
+                            "elementType": 0,
+                            "rexp": "/^[1-9][0-9]{0,9999}$/"
+                        }
+                    ],
+                    "creatorId": 100,
+                    "creatorName": "admin",
+                    "id": 2135
+                },
+                {
+                    "tabName": "字段信息",
+                    "createTime": "2022-02-23T08:35:33.704+0000",
+                    "elements": [
+                        {
+                            "visible": true,
+                            "defaultValue": "",
+                            "creatorId": 100,
+                            "creatorName": "admin",
+                            "toolTip": "",
+                            "label": "源表字段信息",
+                            "required": false,
+                            "sequence": 1,
+                            "createTime": "2022-02-23T08:35:33.704+0000",
+                            "extra": {
+                                "sourcetableinfoItems": [
+                                    {
+                                        "dataType": "numeric",
+                                        "values": 0,
+                                        "name": "label",
+                                        "index": 0,
+                                        "otherParam": 0
+                                    },
+                                    {
+                                        "dataType": "numeric",
+                                        "values": 58737,
+                                        "name": "number",
+                                        "index": 1,
+                                        "otherParam": 0
+                                    },
+                                    {
+                                        "dataType": "numeric",
+                                        "values": 0,
+                                        "name": "ft_tag_gender",
+                                        "index": 2,
+                                        "otherParam": 0
+                                    },
+                                    {
+                                        "dataType": "text",
+                                        "values": "35-44",
+                                        "name": "ft_tag_age",
+                                        "index": 3,
+                                        "otherParam": 0
+                                    },
+                                    {
+                                        "dataType": "numeric",
+                                        "values": 2,
+                                        "name": "ft_tag_marrige",
+                                        "index": 4,
+                                        "otherParam": 0
+                                    },
+                                    {
+                                        "dataType": "numeric",
+                                        "values": 0,
+                                        "name": "ft_tag_bourgeois",
+                                        "index": 5,
+                                        "otherParam": 0
+                                    },
+                                    {
+                                        "dataType": "text",
+                                        "values": "",
+                                        "name": "ft_tag_education",
+                                        "index": 6,
+                                        "otherParam": 0
+                                    },
+                                    {
+                                        "dataType": "numeric",
+                                        "values": 0,
+                                        "name": "ft_tag_parent_0to2y",
+                                        "index": 7,
+                                        "otherParam": 0
+                                    },
+                                    {
+                                        "dataType": "numeric",
+                                        "values": 0,
+                                        "name": "ft_tag_parent_3to6y",
+                                        "index": 8,
+                                        "otherParam": 0
+                                    },
+                                    {
+                                        "dataType": "numeric",
+                                        "values": 0,
+                                        "name": "ft_tag_parent_k1tok6",
+                                        "index": 9,
+                                        "otherParam": 0
+                                    },
+                                    {
+                                        "dataType": "numeric",
+                                        "values": 1,
+                                        "name": "ft_tag_parent_k7tok12",
+                                        "index": 10,
+                                        "otherParam": 0
+                                    },
+                                    {
+                                        "dataType": "numeric",
+                                        "values": 0,
+                                        "name": "ft_tag_primary_purchaser",
+                                        "index": 11,
+                                        "otherParam": 0
+                                    },
+                                    {
+                                        "dataType": "numeric",
+                                        "values": 1,
+                                        "name": "parent",
+                                        "index": 12,
+                                        "otherParam": 0
+                                    },
+                                    {
+                                        "dataType": "numeric",
+                                        "values": 0,
+                                        "name": "mother",
+                                        "index": 13,
+                                        "otherParam": 0
+                                    },
+                                    {
+                                        "dataType": "numeric",
+                                        "values": 1,
+                                        "name": "ft_dev_timezone",
+                                        "index": 14,
+                                        "otherParam": 0
+                                    },
+                                    {
+                                        "dataType": "numeric",
+                                        "values": 3,
+                                        "name": "ft_lbs_same_night_stay_wifimac_cnt_v2",
+                                        "index": 15,
+                                        "otherParam": 0
+                                    },
+                                    {
+                                        "dataType": "numeric",
+                                        "values": 0,
+                                        "name": "ft_tag_industry_it",
+                                        "index": 16,
+                                        "otherParam": 0
+                                    },
+                                    {
+                                        "dataType": "numeric",
+                                        "values": 0,
+                                        "name": "ft_tag_industry_financial",
+                                        "index": 17,
+                                        "otherParam": 0
+                                    },
+                                    {
+                                        "dataType": "numeric",
+                                        "values": 0,
+                                        "name": "ft_tag_industry_ad",
+                                        "index": 18,
+                                        "otherParam": 0
+                                    },
+                                    {
+                                        "dataType": "numeric",
+                                        "values": 0,
+                                        "name": "ft_tag_occupation_it",
+                                        "index": 19,
+                                        "otherParam": 0
+                                    },
+                                    {
+                                        "dataType": "numeric",
+                                        "values": 0,
+                                        "name": "ft_tag_occupation_teacher",
+                                        "index": 20,
+                                        "otherParam": 0
+                                    },
+                                    {
+                                        "dataType": "numeric",
+                                        "values": 0,
+                                        "name": "ft_tag_occupation_entrepreneur",
+                                        "index": 21,
+                                        "otherParam": 0
+                                    },
+                                    {
+                                        "dataType": "numeric",
+                                        "values": 0,
+                                        "name": "ft_tag_occupation_medical",
+                                        "index": 22,
+                                        "otherParam": 0
+                                    },
+                                    {
+                                        "dataType": "numeric",
+                                        "values": 0,
+                                        "name": "ft_tag_occupation_office",
+                                        "index": 23,
+                                        "otherParam": 0
+                                    },
+                                    {
+                                        "dataType": "numeric",
+                                        "values": 44000000,
+                                        "name": "ft_tag_province",
+                                        "index": 24,
+                                        "otherParam": 0
+                                    },
+                                    {
+                                        "dataType": "numeric",
+                                        "values": 44030000,
+                                        "name": "ft_tag_city",
+                                        "index": 25,
+                                        "otherParam": 0
+                                    },
+                                    {
+                                        "dataType": "numeric",
+                                        "values": 1,
+                                        "name": "ft_tag_city_tier",
+                                        "index": 26,
+                                        "otherParam": 0
+                                    },
+                                    {
+                                        "dataType": "numeric",
+                                        "values": 1.1,
+                                        "name": "ft_lbs_house_price_v2",
+                                        "index": 27,
+                                        "otherParam": 0
+                                    },
+                                    {
+                                        "dataType": "numeric",
+                                        "values": 3,
+                                        "name": "ft_lbs_property_fee_v2",
+                                        "index": 28,
+                                        "otherParam": 0
+                                    },
+                                    {
+                                        "dataType": "numeric",
+                                        "values": 2,
+                                        "name": "ft_tag_consumption_level",
+                                        "index": 29,
+                                        "otherParam": 0
+                                    },
+                                    {
+                                        "dataType": "numeric",
+                                        "values": 3,
+                                        "name": "ft_tag_consumption_range",
+                                        "index": 30,
+                                        "otherParam": 0
+                                    },
+                                    {
+                                        "dataType": "numeric",
+                                        "values": 1.1,
+                                        "name": "ft_gz_income_1_v2",
+                                        "index": 31,
+                                        "otherParam": 0
+                                    },
+                                    {
+                                        "dataType": "numeric",
+                                        "values": 2,
+                                        "name": "ft_gz_car_price_v2",
+                                        "index": 32,
+                                        "otherParam": 0
+                                    },
+                                    {
+                                        "dataType": "numeric",
+                                        "values": 1.1,
+                                        "name": "ft_gz_housing_price_homeaddr_cnt_v2",
+                                        "index": 33,
+                                        "otherParam": 0
+                                    },
+                                    {
+                                        "dataType": "numeric",
+                                        "values": 1.1,
+                                        "name": "ft_cross_tag_city_level4_housing_price_v2",
+                                        "index": 34,
+                                        "otherParam": 0
+                                    },
+                                    {
+                                        "dataType": "numeric",
+                                        "values": 1.1,
+                                        "name": "ft_cross_tag_city_level3_housing_price_v2",
+                                        "index": 35,
+                                        "otherParam": 0
+                                    },
+                                    {
+                                        "dataType": "numeric",
+                                        "values": 1.1,
+                                        "name": "ft_cross_tag_city_level2_housing_price_v2",
+                                        "index": 36,
+                                        "otherParam": 0
+                                    },
+                                    {
+                                        "dataType": "numeric",
+                                        "values": 1,
+                                        "name": "ft_cross_tag_city_level1_housing_price_v2",
+                                        "index": 37,
+                                        "otherParam": 0
+                                    },
+                                    {
+                                        "dataType": "text",
+                                        "values": "",
+                                        "name": "ft_cross_tag_city_level4_price_v2",
+                                        "index": 38,
+                                        "otherParam": 0
+                                    },
+                                    {
+                                        "dataType": "numeric",
+                                        "values": 1.1,
+                                        "name": "ft_cross_tag_city_level3_price_v2",
+                                        "index": 39,
+                                        "otherParam": 0
+                                    },
+                                    {
+                                        "dataType": "numeric",
+                                        "values": 1.1,
+                                        "name": "ft_cross_tag_city_level2_price_v2",
+                                        "index": 40,
+                                        "otherParam": 0
+                                    },
+                                    {
+                                        "dataType": "numeric",
+                                        "values": 2,
+                                        "name": "ft_cross_tag_city_level1_price_v2",
+                                        "index": 41,
+                                        "otherParam": 0
+                                    },
+                                    {
+                                        "dataType": "numeric",
+                                        "values": 1,
+                                        "name": "ft_tag_car_ownership_v2",
+                                        "index": 42,
+                                        "otherParam": 0
+                                    },
+                                    {
+                                        "dataType": "numeric",
+                                        "values": 1,
+                                        "name": "ft_tag_property_owner_v2",
+                                        "index": 43,
+                                        "otherParam": 0
+                                    },
+                                    {
+                                        "dataType": "numeric",
+                                        "values": 548,
+                                        "name": "ft_asset_score_a_rule",
+                                        "index": 44,
+                                        "otherParam": 0
+                                    },
+                                    {
+                                        "dataType": "numeric",
+                                        "values": 4,
+                                        "name": "ft_asset_score_b_rule",
+                                        "index": 45,
+                                        "otherParam": 0
+                                    },
+                                    {
+                                        "dataType": "numeric",
+                                        "values": 549,
+                                        "name": "ft_asset_score_c_rule",
+                                        "index": 46,
+                                        "otherParam": 0
+                                    },
+                                    {
+                                        "dataType": "numeric",
+                                        "values": 3,
+                                        "name": "ft_asset_score_d_rule",
+                                        "index": 47,
+                                        "otherParam": 0
+                                    },
+                                    {
+                                        "dataType": "numeric",
+                                        "values": 563,
+                                        "name": "ft_asset_score_e_rule",
+                                        "index": 48,
+                                        "otherParam": 0
+                                    },
+                                    {
+                                        "dataType": "numeric",
+                                        "values": 3,
+                                        "name": "ft_asset_score_f_rule",
+                                        "index": 49,
+                                        "otherParam": 0
+                                    },
+                                    {
+                                        "dataType": "numeric",
+                                        "values": 4,
+                                        "name": "ft_app_act_30d_online_shopping_cnt",
+                                        "index": 50,
+                                        "otherParam": 0
+                                    },
+                                    {
+                                        "dataType": "numeric",
+                                        "values": 14,
+                                        "name": "ft_app_act_30d_online_shopping_times",
+                                        "index": 51,
+                                        "otherParam": 0
+                                    },
+                                    {
+                                        "dataType": "numeric",
+                                        "values": 4,
+                                        "name": "ft_app_act_30d_online_shopping_days",
+                                        "index": 52,
+                                        "otherParam": 0
+                                    },
+                                    {
+                                        "dataType": "numeric",
+                                        "values": 2,
+                                        "name": "ft_app_act_30d_travel_cnt",
+                                        "index": 53,
+                                        "otherParam": 0
+                                    },
+                                    {
+                                        "dataType": "numeric",
+                                        "values": 2,
+                                        "name": "ft_app_act_30d_travel_times",
+                                        "index": 54,
+                                        "otherParam": 0
+                                    },
+                                    {
+                                        "dataType": "numeric",
+                                        "values": 2,
+                                        "name": "ft_app_act_30d_travel_days",
+                                        "index": 55,
+                                        "otherParam": 0
+                                    },
+                                    {
+                                        "dataType": "numeric",
+                                        "values": 1,
+                                        "name": "ft_app_act_30d_discounts_cnt",
+                                        "index": 56,
+                                        "otherParam": 0
+                                    },
+                                    {
+                                        "dataType": "numeric",
+                                        "values": 4,
+                                        "name": "ft_app_act_30d_discounts_times",
+                                        "index": 57,
+                                        "otherParam": 0
+                                    },
+                                    {
+                                        "dataType": "numeric",
+                                        "values": 3,
+                                        "name": "ft_app_act_30d_discounts_days",
+                                        "index": 58,
+                                        "otherParam": 0
+                                    },
+                                    {
+                                        "dataType": "numeric",
+                                        "values": 2,
+                                        "name": "ft_app_act_30d_market_cnt",
+                                        "index": 59,
+                                        "otherParam": 0
+                                    },
+                                    {
+                                        "dataType": "numeric",
+                                        "values": 9,
+                                        "name": "ft_app_act_30d_market_times",
+                                        "index": 60,
+                                        "otherParam": 0
+                                    },
+                                    {
+                                        "dataType": "numeric",
+                                        "values": 4,
+                                        "name": "ft_app_act_30d_market_days",
+                                        "index": 61,
+                                        "otherParam": 0
+                                    },
+                                    {
+                                        "dataType": "numeric",
+                                        "values": 4,
+                                        "name": "ft_app_ins_current_online_shopping_cnt",
+                                        "index": 62,
+                                        "otherParam": 0
+                                    },
+                                    {
+                                        "dataType": "numeric",
+                                        "values": 12,
+                                        "name": "ft_app_ins_history_online_shopping_cnt",
+                                        "index": 63,
+                                        "otherParam": 0
+                                    },
+                                    {
+                                        "dataType": "numeric",
+                                        "values": 3,
+                                        "name": "ft_app_ins_current_travel_cnt",
+                                        "index": 64,
+                                        "otherParam": 0
+                                    },
+                                    {
+                                        "dataType": "numeric",
+                                        "values": 8,
+                                        "name": "ft_app_ins_history_travel_cnt",
+                                        "index": 65,
+                                        "otherParam": 0
+                                    },
+                                    {
+                                        "dataType": "numeric",
+                                        "values": 1,
+                                        "name": "ft_app_ins_current_discounts_cnt",
+                                        "index": 66,
+                                        "otherParam": 0
+                                    },
+                                    {
+                                        "dataType": "numeric",
+                                        "values": 8,
+                                        "name": "ft_app_ins_history_discounts_cnt",
+                                        "index": 67,
+                                        "otherParam": 0
+                                    },
+                                    {
+                                        "dataType": "numeric",
+                                        "values": 2,
+                                        "name": "ft_app_ins_current_market_cnt",
+                                        "index": 68,
+                                        "otherParam": 0
+                                    },
+                                    {
+                                        "dataType": "numeric",
+                                        "values": 7,
+                                        "name": "ft_app_ins_history_market_cnt",
+                                        "index": 69,
+                                        "otherParam": 0
+                                    },
+                                    {
+                                        "dataType": "numeric",
+                                        "values": 3,
+                                        "name": "ft_tag_shopping",
+                                        "index": 70,
+                                        "otherParam": 0
+                                    },
+                                    {
+                                        "dataType": "numeric",
+                                        "values": 0,
+                                        "name": "ft_tag_purchaser",
+                                        "index": 71,
+                                        "otherParam": 0
+                                    },
+                                    {
+                                        "dataType": "numeric",
+                                        "values": 4,
+                                        "name": "ft_lbs_hotel_4w_level",
+                                        "index": 72,
+                                        "otherParam": 0
+                                    },
+                                    {
+                                        "dataType": "numeric",
+                                        "values": 3,
+                                        "name": "ft_lbs_hotel_4w_days",
+                                        "index": 73,
+                                        "otherParam": 0
+                                    },
+                                    {
+                                        "dataType": "numeric",
+                                        "values": 0,
+                                        "name": "ft_tag_hotel",
+                                        "index": 74,
+                                        "otherParam": 0
+                                    },
+                                    {
+                                        "dataType": "numeric",
+                                        "values": 0,
+                                        "name": "ft_tag_travel",
+                                        "index": 75,
+                                        "otherParam": 0
+                                    },
+                                    {
+                                        "dataType": "numeric",
+                                        "values": 0,
+                                        "name": "ft_tag_residence",
+                                        "index": 76,
+                                        "otherParam": 0
+                                    },
+                                    {
+                                        "dataType": "numeric",
+                                        "values": 0.242,
+                                        "name": "ft_lbs_home_cons_ls_high",
+                                        "index": 77,
+                                        "otherParam": 0
+                                    },
+                                    {
+                                        "dataType": "numeric",
+                                        "values": 0.156,
+                                        "name": "ft_lbs_home_cons_ls_low",
+                                        "index": 78,
+                                        "otherParam": 0
+                                    },
+                                    {
+                                        "dataType": "numeric",
+                                        "values": 0.602,
+                                        "name": "ft_lbs_home_cons_ls_middle",
+                                        "index": 79,
+                                        "otherParam": 0
+                                    },
+                                    {
+                                        "dataType": "numeric",
+                                        "values": 0.272,
+                                        "name": "ft_lbs_pwoi_all_mostoften_consume_high",
+                                        "index": 80,
+                                        "otherParam": 0
+                                    },
+                                    {
+                                        "dataType": "numeric",
+                                        "values": 0.134,
+                                        "name": "ft_lbs_pwoi_all_mostoften_consume_low",
+                                        "index": 81,
+                                        "otherParam": 0
+                                    },
+                                    {
+                                        "dataType": "numeric",
+                                        "values": 0.594,
+                                        "name": "ft_lbs_pwoi_all_mostoften_consume_middle",
+                                        "index": 82,
+                                        "otherParam": 0
+                                    },
+                                    {
+                                        "dataType": "numeric",
+                                        "values": 0.244,
+                                        "name": "ft_lbs_pwoi_all_often_consum_high",
+                                        "index": 83,
+                                        "otherParam": 0
+                                    },
+                                    {
+                                        "dataType": "numeric",
+                                        "values": 0.153,
+                                        "name": "ft_lbs_pwoi_all_often_consum_low",
+                                        "index": 84,
+                                        "otherParam": 0
+                                    },
+                                    {
+                                        "dataType": "numeric",
+                                        "values": 0.603,
+                                        "name": "ft_lbs_pwoi_all_often_consum_middle",
+                                        "index": 85,
+                                        "otherParam": 0
+                                    },
+                                    {
+                                        "dataType": "numeric",
+                                        "values": 0.242,
+                                        "name": "ft_lbs_work_cons_ls_high",
+                                        "index": 86,
+                                        "otherParam": 0
+                                    },
+                                    {
+                                        "dataType": "numeric",
+                                        "values": 0.156,
+                                        "name": "ft_lbs_work_cons_ls_low",
+                                        "index": 87,
+                                        "otherParam": 0
+                                    },
+                                    {
+                                        "dataType": "numeric",
+                                        "values": 0.602,
+                                        "name": "ft_lbs_work_cons_ls_middle",
+                                        "index": 88,
+                                        "otherParam": 0
+                                    },
+                                    {
+                                        "dataType": "numeric",
+                                        "values": 555,
+                                        "name": "ft_consumption_score_a_rule",
+                                        "index": 89,
+                                        "otherParam": 0
+                                    },
+                                    {
+                                        "dataType": "numeric",
+                                        "values": 5,
+                                        "name": "ft_consumption_score_b_rule",
+                                        "index": 90,
+                                        "otherParam": 0
+                                    },
+                                    {
+                                        "dataType": "numeric",
+                                        "values": 550,
+                                        "name": "ft_consumption_score_c_rule",
+                                        "index": 91,
+                                        "otherParam": 0
+                                    },
+                                    {
+                                        "dataType": "numeric",
+                                        "values": 4,
+                                        "name": "ft_consumption_score_d_rule",
+                                        "index": 92,
+                                        "otherParam": 0
+                                    },
+                                    {
+                                        "dataType": "numeric",
+                                        "values": 563,
+                                        "name": "ft_consumption_score_e_rule",
+                                        "index": 93,
+                                        "otherParam": 0
+                                    },
+                                    {
+                                        "dataType": "numeric",
+                                        "values": 7,
+                                        "name": "ft_consumption_score_f_rule",
+                                        "index": 94,
+                                        "otherParam": 0
+                                    },
+                                    {
+                                        "dataType": "numeric",
+                                        "values": 2,
+                                        "name": "ft_app_ins_current_finance_cnt",
+                                        "index": 95,
+                                        "otherParam": 0
+                                    },
+                                    {
+                                        "dataType": "numeric",
+                                        "values": 9,
+                                        "name": "ft_app_ins_history_finance_cnt",
+                                        "index": 96,
+                                        "otherParam": 0
+                                    },
+                                    {
+                                        "dataType": "numeric",
+                                        "values": 0,
+                                        "name": "ft_app_ins_current_gamble_cnt",
+                                        "index": 97,
+                                        "otherParam": 0
+                                    },
+                                    {
+                                        "dataType": "numeric",
+                                        "values": 0,
+                                        "name": "ft_app_ins_history_gamble_cnt",
+                                        "index": 98,
+                                        "otherParam": 0
+                                    },
+                                    {
+                                        "dataType": "numeric",
+                                        "values": 0,
+                                        "name": "ft_app_ins_current_insurance_cnt",
+                                        "index": 99,
+                                        "otherParam": 0
+                                    }
+                                ],
+                                "key": "data_in"
+                            },
+                            "name": "sourcetableinfo",
+                            "options": "",
+                            "id": 5943,
+                            "placeholder": "",
+                            "value": "",
+                            "elementType": 13,
+                            "rexp": ""
+                        }
+                    ],
+                    "creatorId": 100,
+                    "creatorName": "admin",
+                    "id": 2136
+                }
+            ],
+            "description": "",
+            "serverId": 10003,
+            "outputExtraData": [],
+            "hasReport": false,
+            "targetAlgorithm": "com.yzx.mlp.scheduling.core.alog.unparallel.engine.pythonengine.io.Input1",
+            "top": 9,
+            "engine": "PYTHON",
+            "left": 241,
+            "allowViewSource": true,
+            "name": "输入源",
+            "runStyle": "status-sus",
+            "id": "10002149",
+            "iconPath": "iconshuru-01",
+            "minimumInput": 0,
+            "lastUpdateTime": 1645616211026
+        },
+        {
+            "outputs": [
+                {
+                    "access": "SAME",
+                    "left": 90,
+                    "columns": "[]",
+                    "cat": "DATA",
+                    "description": "输出",
+                    "model": false,
+                    "id": "10002150_0_1",
+                    "type": "OUTPUT",
+                    "value": "10002150_0_1",
+                    "key": "data_out",
+                    "canPreview": true
+                }
+            ],
+            "outputData": [
+                {
+                    "key": "data_in",
+                    "dataFields": []
+                }
+            ],
+            "inputData": [
+                {
+                    "key": "data_in",
+                    "dataFields": []
+                }
+            ],
+            "inputs": [
+                {
+                    "left": 90,
+                    "cat": "DATA",
+                    "isConnected": true,
+                    "description": "输入",
+                    "model": false,
+                    "id": "10002150_1_1",
+                    "type": "INPUT",
+                    "value": "10002150_1_1",
+                    "key": "data_in",
+                    "canPreview": true
+                }
+            ],
+            "tabs": [
+                {
+                    "tabName": "字段设置",
+                    "createTime": "2022-02-23T08:35:35.398+0000",
+                    "elements": [
+                        {
+                            "visible": true,
+                            "defaultValue": "",
+                            "creatorId": 100,
+                            "creatorName": "admin",
+                            "toolTip": "好坏样本列所在列序号或者列名称",
+                            "label": "好坏样本列",
+                            "required": true,
+                            "sequence": 0,
+                            "createTime": "2022-02-23T08:35:35.398+0000",
+                            "extra": {
+                                "key": "data_in"
+                            },
+                            "name": "edadatashowgoodbad",
+                            "options": "",
+                            "id": 5944,
+                            "placeholder": "请输入好坏样本所在列序号或者列名称",
+                            "value": "label",
+                            "elementType": 1,
+                            "rexp": "/\\S/"
+                        },
+                        {
+                            "visible": true,
+                            "defaultValue": "",
+                            "creatorId": 100,
+                            "creatorName": "admin",
+                            "toolTip": "请输入判断重复列所在列序号或者列名称",
+                            "label": "判断重复列",
+                            "required": true,
+                            "sequence": 1,
+                            "createTime": "2022-02-23T08:35:35.398+0000",
+                            "extra": {
+                                "key": "data_in"
+                            },
+                            "name": "edadatashowduplicate",
+                            "options": "",
+                            "id": 5945,
+                            "placeholder": "请输入判断重复列所在列序号或者列名称",
+                            "value": "number",
+                            "elementType": 1,
+                            "rexp": "/\\S/"
+                        }
+                    ],
+                    "creatorId": 100,
+                    "creatorName": "admin",
+                    "id": 2137
+                }
+            ],
+            "description": "描述：数据总览",
+            "serverId": 10042,
+            "outputExtraData": [],
+            "hasReport": true,
+            "targetAlgorithm": "com.yzx.mlp.scheduling.core.alog.unparallel.engine.pythonengine.PythonCommonAlgorithm",
+            "top": 85,
+            "engine": "PYTHON",
+            "left": 33,
+            "allowViewSource": true,
+            "name": "数据总览",
+            "runStyle": "status-sus",
+            "id": "10002150",
+            "iconPath": "iconshuchu-01",
+            "minimumInput": 1,
+            "lastUpdateTime": 1645616300631
+        },
+        {
+            "outputs": [],
+            "outputData": [
+                {
+                    "key": "data_in",
+                    "dataFields": []
+                }
+            ],
+            "inputData": [
+                {
+                    "key": "data_in",
+                    "dataFields": []
+                }
+            ],
+            "inputs": [
+                {
+                    "left": 90,
+                    "cat": "DATA",
+                    "isConnected": true,
+                    "description": "输入",
+                    "model": false,
+                    "id": "10002152_1_1",
+                    "type": "INPUT",
+                    "value": "10002152_1_1",
+                    "key": "data_in",
+                    "canPreview": true
+                }
+            ],
+            "tabs": [],
+            "description": "描述：数据明细展示",
+            "serverId": 10043,
+            "outputExtraData": [],
+            "hasReport": true,
+            "targetAlgorithm": "com.yzx.mlp.scheduling.core.alog.unparallel.engine.pythonengine.PythonCommonAlgorithm",
+            "top": 89,
+            "engine": "PYTHON",
+            "left": 257,
+            "allowViewSource": true,
+            "name": "数据明细展示",
+            "runStyle": "status-sus",
+            "id": "10002152",
+            "iconPath": "iconshuchu-01",
+            "minimumInput": 1,
+            "lastUpdateTime": 1645616400994
+        },
+        {
+            "outputs": [],
+            "outputData": [
+                {
+                    "key": "data_in",
+                    "dataFields": []
+                }
+            ],
+            "inputData": [
+                {
+                    "key": "data_in",
+                    "dataFields": []
+                }
+            ],
+            "inputs": [
+                {
+                    "left": 90,
+                    "cat": "DATA",
+                    "isConnected": true,
+                    "description": "输入",
+                    "model": false,
+                    "id": "10002153_1_1",
+                    "type": "INPUT",
+                    "value": "10002153_1_1",
+                    "key": "data_in",
+                    "canPreview": true
+                }
+            ],
+            "tabs": [
+                {
+                    "tabName": "字段设置",
+                    "createTime": "2022-02-23T08:35:36.218+0000",
+                    "elements": [
+                        {
+                            "visible": true,
+                            "defaultValue": "",
+                            "creatorId": 100,
+                            "creatorName": "admin",
+                            "toolTip": "标签列所在列序号或者列名称",
+                            "label": "标签列",
+                            "required": true,
+                            "sequence": 0,
+                            "createTime": "2022-02-23T08:35:36.218+0000",
+                            "extra": {
+                                "key": "data_in"
+                            },
+                            "name": "edadatainfotag",
+                            "options": "",
+                            "id": 5946,
+                            "placeholder": "请输入标签所在列序号或者列名称",
+                            "value": "label",
+                            "elementType": 1,
+                            "rexp": "/\\S/"
+                        },
+                        {
+                            "visible": true,
+                            "defaultValue": "",
+                            "creatorId": 100,
+                            "creatorName": "admin",
+                            "toolTip": "请输入判断重复列所在列序号或者列名称",
+                            "label": "统计列",
+                            "required": true,
+                            "sequence": 1,
+                            "createTime": "2022-02-23T08:35:36.218+0000",
+                            "extra": {
+                                "key": "data_in"
+                            },
+                            "name": "edadatainfoxs",
+                            "options": "",
+                            "id": 5947,
+                            "placeholder": "请输入判断重复列所在列序号或者列名称",
+                            "value": "3-100",
+                            "elementType": 1,
+                            "rexp": "/\\S/"
+                        }
+                    ],
+                    "creatorId": 100,
+                    "creatorName": "admin",
+                    "id": 2138
+                }
+            ],
+            "description": "描述：连续型的用密度图表示，类别型用柱状图表示，对于类别大于10的类别型暂不显示图形",
+            "serverId": 10045,
+            "outputExtraData": [],
+            "hasReport": true,
+            "targetAlgorithm": "com.yzx.mlp.scheduling.core.alog.unparallel.engine.pythonengine.PythonCommonAlgorithm",
+            "top": 92,
+            "engine": "PYTHON",
+            "left": 492,
+            "allowViewSource": true,
+            "name": "可视化",
+            "runStyle": "status-sus",
+            "id": "10002153",
+            "iconPath": "iconshuchu-01",
+            "minimumInput": 1,
+            "lastUpdateTime": 1645616414601
+        },
+        {
+            "outputs": [
+                {
+                    "access": "SAME",
+                    "left": 90,
+                    "columns": "[]",
+                    "cat": "DATA",
+                    "description": "输出",
+                    "model": false,
+                    "id": "10002154_0_1",
+                    "type": "OUTPUT",
+                    "value": "10002154_0_1",
+                    "key": "data_out",
+                    "canPreview": true
+                }
+            ],
+            "outputData": [
+                {
+                    "key": "data_in",
+                    "dataFields": []
+                }
+            ],
+            "inputData": [
+                {
+                    "key": "data_in",
+                    "dataFields": []
+                }
+            ],
+            "inputs": [
+                {
+                    "left": 90,
+                    "cat": "DATA",
+                    "isConnected": true,
+                    "description": "输入",
+                    "model": false,
+                    "id": "10002154_1_1",
+                    "type": "INPUT",
+                    "value": "10002154_1_1",
+                    "key": "data_in",
+                    "canPreview": true
+                }
+            ],
+            "tabs": [
+                {
+                    "tabName": "字段设置",
+                    "createTime": "2022-02-23T08:35:48.644+0000",
+                    "elements": [
+                        {
+                            "visible": true,
+                            "defaultValue": "",
+                            "creatorId": 100,
+                            "creatorName": "admin",
+                            "toolTip": "表示需处理的特征所在列序号或者列名称，如“1-3,10,column1”,表示取特征在表中的1到3列，10列 和字段名称为column1的列，列序号从1开始计数，不包含序号列。\n",
+                            "label": "输入特征列",
+                            "required": true,
+                            "sequence": 0,
+                            "createTime": "2022-02-23T08:35:48.644+0000",
+                            "extra": {
+                                "key": "data_in"
+                            },
+                            "name": "treeinputfeaturecolumn",
+                            "options": "",
+                            "id": 6000,
+                            "placeholder": "请输入特征所在列序号或者列名称",
+                            "value": "3-100",
+                            "elementType": 1,
+                            "rexp": "/^[0-9A-Za-z,\\-_]{1,10000}$/"
+                        },
+                        {
+                            "visible": true,
+                            "defaultValue": "",
+                            "creatorId": 100,
+                            "creatorName": "admin",
+                            "toolTip": "标签列所在列序号或者列名称。",
+                            "label": "标签列",
+                            "required": true,
+                            "sequence": 1,
+                            "createTime": "2022-02-23T08:35:48.644+0000",
+                            "extra": {
+                                "key": "data_in"
+                            },
+                            "name": "treelabelcolumn",
+                            "options": "",
+                            "id": 6001,
+                            "placeholder": "请输入标签所在列序号或者列名称",
+                            "value": "label",
+                            "elementType": 1,
+                            "rexp": "/^[0-9A-Za-z,\\-_]{1,10000}$/"
+                        }
+                    ],
+                    "creatorId": 100,
+                    "creatorName": "admin",
+                    "id": 2161
+                },
+                {
+                    "tabName": "参数设置",
+                    "createTime": "2022-02-23T08:35:48.644+0000",
+                    "elements": [
+                        {
+                            "visible": true,
+                            "defaultValue": "",
+                            "creatorId": 100,
+                            "creatorName": "admin",
+                            "toolTip": "输入比例 范围0~1",
+                            "label": "训练集",
+                            "required": true,
+                            "sequence": 0,
+                            "createTime": "2022-02-23T08:35:48.644+0000",
+                            "extra": {
+                                "key": "data_in"
+                            },
+                            "name": "treetrainingset",
+                            "options": "",
+                            "id": 6002,
+                            "placeholder": "",
+                            "value": "0.8",
+                            "elementType": 1,
+                            "rexp": "/^0\\.\\d*[1-9]\\d*$|^[1-9]\\.\\d*[1-9]\\d*e-[1-9]+$/"
+                        },
+                        {
+                            "visible": true,
+                            "defaultValue": "",
+                            "creatorId": 100,
+                            "creatorName": "admin",
+                            "toolTip": "输入比例 范围0~1",
+                            "label": "测试集",
+                            "required": true,
+                            "sequence": 1,
+                            "createTime": "2022-02-23T08:35:48.644+0000",
+                            "extra": {
+                                "key": "data_in"
+                            },
+                            "name": "treetestset",
+                            "options": "",
+                            "id": 6003,
+                            "placeholder": "",
+                            "value": "0.2",
+                            "elementType": 1,
+                            "rexp": "/^0\\.\\d*[1-9]\\d*$|^[1-9]\\.\\d*[1-9]\\d*e-[1-9]+$/"
+                        }
+                    ],
+                    "creatorId": 100,
+                    "creatorName": "admin",
+                    "id": 2162
+                },
+                {
+                    "tabName": "超参数设置",
+                    "createTime": "2022-02-23T08:35:48.644+0000",
+                    "elements": [
+                        {
+                            "visible": true,
+                            "defaultValue": "",
+                            "creatorId": 100,
+                            "creatorName": "admin",
+                            "toolTip": "基评估器的数量 取值范围正整数",
+                            "label": "n_estimators",
+                            "required": true,
+                            "sequence": 0,
+                            "createTime": "2022-02-23T08:35:48.644+0000",
+                            "extra": {
+                                "key": "data_in"
+                            },
+                            "name": "treen_estimators",
+                            "options": "",
+                            "id": 6004,
+                            "placeholder": "",
+                            "value": "100",
+                            "elementType": 1,
+                            "rexp": "/^[0-9]+$/"
+                        },
+                        {
+                            "visible": true,
+                            "defaultValue": "",
+                            "creatorId": 100,
+                            "creatorName": "admin",
+                            "toolTip": "决策树的最大深度 \n 取值范围:正整数常用[3,8]",
+                            "label": "max_depth",
+                            "required": true,
+                            "sequence": 1,
+                            "createTime": "2022-02-23T08:35:48.644+0000",
+                            "extra": {
+                                "key": "data_in"
+                            },
+                            "name": "treemax_depth",
+                            "options": "",
+                            "id": 6005,
+                            "placeholder": "",
+                            "value": "3",
+                            "elementType": 1,
+                            "rexp": "/^[0-9]+$/"
+                        },
+                        {
+                            "visible": true,
+                            "defaultValue": "",
+                            "creatorId": 100,
+                            "creatorName": "admin",
+                            "toolTip": "节点再划分所需的最小样本数 \n 取值范围正整数",
+                            "label": "min_samples_split",
+                            "required": true,
+                            "sequence": 2,
+                            "createTime": "2022-02-23T08:35:48.644+0000",
+                            "extra": {
+                                "key": "data_in"
+                            },
+                            "name": "treemin_samples_split",
+                            "options": "",
+                            "id": 6006,
+                            "placeholder": "",
+                            "value": "3",
+                            "elementType": 1,
+                            "rexp": "/^[0-9]+$/"
+                        },
+                        {
+                            "visible": true,
+                            "defaultValue": "",
+                            "creatorId": 100,
+                            "creatorName": "admin",
+                            "toolTip": "选择基尼系数或者信息增益 \n 取值范围 gini或info gain",
+                            "label": "criterion",
+                            "required": true,
+                            "sequence": 3,
+                            "createTime": "2022-02-23T08:35:48.644+0000",
+                            "extra": {
+                                "key": "data_in"
+                            },
+                            "name": "treecriterion",
+                            "options": "gini(基尼系数):gini;info Gain(信息增益):entropy",
+                            "id": 6007,
+                            "placeholder": "",
+                            "value": "gini",
+                            "elementType": 3,
+                            "rexp": "/\\S/"
+                        },
+                        {
+                            "visible": true,
+                            "defaultValue": "",
+                            "creatorId": 100,
+                            "creatorName": "admin",
+                            "toolTip": "请输入配置的超参数。参数1=值1,参数2=值2",
+                            "label": "其他超参数设置",
+                            "required": false,
+                            "sequence": 3,
+                            "createTime": "2022-02-23T08:35:48.644+0000",
+                            "extra": {
+                                "key": "data_in"
+                            },
+                            "name": "treeother_params",
+                            "options": "",
+                            "id": 6008,
+                            "placeholder": "",
+                            "value": "",
+                            "elementType": 1,
+                            "rexp": "/\\S/"
+                        }
+                    ],
+                    "creatorId": 100,
+                    "creatorName": "admin",
+                    "id": 2163
+                }
+            ],
+            "description": "树模型",
+            "serverId": 10056,
+            "outputExtraData": [],
+            "hasReport": true,
+            "targetAlgorithm": "com.yzx.mlp.scheduling.core.alog.unparallel.engine.pythonengine.PythonCommonAlgorithm",
+            "top": 171,
+            "engine": "PYTHON",
+            "left": 172,
+            "allowViewSource": true,
+            "name": "树模型",
+            "runStyle": "status-erro",
+            "id": "10002154",
+            "iconPath": "icontezhenggongcheng-01",
+            "minimumInput": 1,
+            "lastUpdateTime": 1645616578974
+        },
+        {
+            "outputs": [
+                {
+                    "access": "SAME",
+                    "left": 90,
+                    "columns": "[]",
+                    "cat": "DATA",
+                    "description": "输出",
+                    "model": false,
+                    "id": "10002155_0_1",
+                    "type": "OUTPUT",
+                    "value": "10002155_0_1",
+                    "key": "data_out",
+                    "canPreview": true
+                }
+            ],
+            "outputData": [
+                {
+                    "key": "data_in",
+                    "dataFields": []
+                }
+            ],
+            "inputData": [
+                {
+                    "key": "data_in",
+                    "dataFields": []
+                }
+            ],
+            "inputs": [
+                {
+                    "left": 90,
+                    "cat": "DATA",
+                    "isConnected": true,
+                    "description": "输入",
+                    "model": false,
+                    "id": "10002155_1_1",
+                    "type": "INPUT",
+                    "value": "10002155_1_1",
+                    "key": "data_in",
+                    "canPreview": true
+                }
+            ],
+            "tabs": [
+                {
+                    "tabName": "字段设置",
+                    "createTime": "2022-02-23T08:35:49.220+0000",
+                    "elements": [
+                        {
+                            "visible": true,
+                            "defaultValue": "",
+                            "creatorId": 100,
+                            "creatorName": "admin",
+                            "toolTip": "表示需处理的特征所在列序号或者列名称，如“1-3,10,column1”,表示取特征在表中的1到3列，10列 和字段名称为column1的列，列序号从1开始计数，不包含序号列。\n",
+                            "label": "输入特征列",
+                            "required": true,
+                            "sequence": 0,
+                            "createTime": "2022-02-23T08:35:49.220+0000",
+                            "extra": {
+                                "key": "data_in"
+                            },
+                            "name": "treeinputfeaturecolumn",
+                            "options": "",
+                            "id": 6009,
+                            "placeholder": "请输入特征所在列序号或者列名称",
+                            "value": "3-100",
+                            "elementType": 1,
+                            "rexp": "/^[0-9A-Za-z,\\-_]{1,10000}$/"
+                        },
+                        {
+                            "visible": true,
+                            "defaultValue": "",
+                            "creatorId": 100,
+                            "creatorName": "admin",
+                            "toolTip": "标签列所在列序号或者列名称。",
+                            "label": "标签列",
+                            "required": true,
+                            "sequence": 1,
+                            "createTime": "2022-02-23T08:35:49.220+0000",
+                            "extra": {
+                                "key": "data_in"
+                            },
+                            "name": "treelabelcolumn",
+                            "options": "",
+                            "id": 6010,
+                            "placeholder": "请输入标签所在列序号或者列名称",
+                            "value": "label",
+                            "elementType": 1,
+                            "rexp": "/^[0-9A-Za-z,\\-_]{1,10000}$/"
+                        }
+                    ],
+                    "creatorId": 100,
+                    "creatorName": "admin",
+                    "id": 2164
+                },
+                {
+                    "tabName": "参数设置",
+                    "createTime": "2022-02-23T08:35:49.220+0000",
+                    "elements": [
+                        {
+                            "visible": true,
+                            "defaultValue": "",
+                            "creatorId": 100,
+                            "creatorName": "admin",
+                            "toolTip": "输入比例 范围0~1",
+                            "label": "训练集",
+                            "required": true,
+                            "sequence": 0,
+                            "createTime": "2022-02-23T08:35:49.220+0000",
+                            "extra": {
+                                "key": "data_in"
+                            },
+                            "name": "treetrainingset",
+                            "options": "",
+                            "id": 6011,
+                            "placeholder": "",
+                            "value": "0.8",
+                            "elementType": 1,
+                            "rexp": "/^0\\.\\d*[1-9]\\d*$|^[1-9]\\.\\d*[1-9]\\d*e-[1-9]+$/"
+                        },
+                        {
+                            "visible": true,
+                            "defaultValue": "",
+                            "creatorId": 100,
+                            "creatorName": "admin",
+                            "toolTip": "输入比例 范围0~1",
+                            "label": "测试集",
+                            "required": true,
+                            "sequence": 1,
+                            "createTime": "2022-02-23T08:35:49.220+0000",
+                            "extra": {
+                                "key": "data_in"
+                            },
+                            "name": "treetestset",
+                            "options": "",
+                            "id": 6012,
+                            "placeholder": "",
+                            "value": "0.2",
+                            "elementType": 1,
+                            "rexp": "/^0\\.\\d*[1-9]\\d*$|^[1-9]\\.\\d*[1-9]\\d*e-[1-9]+$/"
+                        }
+                    ],
+                    "creatorId": 100,
+                    "creatorName": "admin",
+                    "id": 2165
+                },
+                {
+                    "tabName": "超参数设置",
+                    "createTime": "2022-02-23T08:35:49.220+0000",
+                    "elements": [
+                        {
+                            "visible": true,
+                            "defaultValue": "",
+                            "creatorId": 100,
+                            "creatorName": "admin",
+                            "toolTip": "基评估器的数量 取值范围正整数",
+                            "label": "n_estimators",
+                            "required": true,
+                            "sequence": 0,
+                            "createTime": "2022-02-23T08:35:49.220+0000",
+                            "extra": {
+                                "key": "data_in"
+                            },
+                            "name": "treen_estimators",
+                            "options": "",
+                            "id": 6013,
+                            "placeholder": "",
+                            "value": "100",
+                            "elementType": 1,
+                            "rexp": "/^[0-9]+$/"
+                        },
+                        {
+                            "visible": true,
+                            "defaultValue": "",
+                            "creatorId": 100,
+                            "creatorName": "admin",
+                            "toolTip": "决策树的最大深度 \n 取值范围:正整数常用[3,8]",
+                            "label": "max_depth",
+                            "required": true,
+                            "sequence": 1,
+                            "createTime": "2022-02-23T08:35:49.220+0000",
+                            "extra": {
+                                "key": "data_in"
+                            },
+                            "name": "treemax_depth",
+                            "options": "",
+                            "id": 6014,
+                            "placeholder": "",
+                            "value": "8",
+                            "elementType": 1,
+                            "rexp": "/^[0-9]+$/"
+                        },
+                        {
+                            "visible": true,
+                            "defaultValue": "",
+                            "creatorId": 100,
+                            "creatorName": "admin",
+                            "toolTip": "节点再划分所需的最小样本数 \n 取值范围正整数",
+                            "label": "min_samples_split",
+                            "required": true,
+                            "sequence": 2,
+                            "createTime": "2022-02-23T08:35:49.220+0000",
+                            "extra": {
+                                "key": "data_in"
+                            },
+                            "name": "treemin_samples_split",
+                            "options": "",
+                            "id": 6015,
+                            "placeholder": "",
+                            "value": "3",
+                            "elementType": 1,
+                            "rexp": "/^[0-9]+$/"
+                        },
+                        {
+                            "visible": true,
+                            "defaultValue": "",
+                            "creatorId": 100,
+                            "creatorName": "admin",
+                            "toolTip": "选择基尼系数或者信息增益 \n 取值范围 gini或info gain",
+                            "label": "criterion",
+                            "required": true,
+                            "sequence": 3,
+                            "createTime": "2022-02-23T08:35:49.220+0000",
+                            "extra": {
+                                "key": "data_in"
+                            },
+                            "name": "treecriterion",
+                            "options": "gini(基尼系数):gini;info Gain(信息增益):entropy",
+                            "id": 6016,
+                            "placeholder": "",
+                            "value": "gini",
+                            "elementType": 3,
+                            "rexp": "/\\S/"
+                        },
+                        {
+                            "visible": true,
+                            "defaultValue": "",
+                            "creatorId": 100,
+                            "creatorName": "admin",
+                            "toolTip": "请输入配置的超参数。参数1=值1,参数2=值2",
+                            "label": "其他超参数设置",
+                            "required": false,
+                            "sequence": 3,
+                            "createTime": "2022-02-23T08:35:49.220+0000",
+                            "extra": {
+                                "key": "data_in"
+                            },
+                            "name": "treeother_params",
+                            "options": "",
+                            "id": 6017,
+                            "placeholder": "",
+                            "value": "",
+                            "elementType": 1,
+                            "rexp": "/\\S/"
+                        }
+                    ],
+                    "creatorId": 100,
+                    "creatorName": "admin",
+                    "id": 2166
+                }
+            ],
+            "description": "重要性汇总",
+            "serverId": 10057,
+            "outputExtraData": [],
+            "hasReport": true,
+            "targetAlgorithm": "com.yzx.mlp.scheduling.core.alog.unparallel.engine.pythonengine.PythonCommonAlgorithm",
+            "top": 170,
+            "engine": "PYTHON",
+            "left": 381,
+            "allowViewSource": true,
+            "name": "重要性汇总",
+            "runStyle": "status-abort",
+            "id": "10002155",
+            "iconPath": "icontezhenggongcheng-01",
+            "minimumInput": 1,
+            "lastUpdateTime": 1645616668126
+        }
+    ],
+    "links": [
+        {
+            "d": "M 333 47 Q 333 77 228.5 66 T 124 85",
+            "inputPortId": "10002150_1_1",
+            "runStyle": "",
+            "id": "10002149_0_1_10002150_1_1",
+            "source": "10002149",
+            "outputPortId": "10002149_0_1",
+            "target": "10002150"
+        },
+        {
+            "d": "M 332 42 Q 332 72 339.5 65 T 347 88",
+            "inputPortId": "10002152_1_1",
+            "runStyle": "",
+            "id": "10002149_0_1_10002152_1_1",
+            "source": "10002149",
+            "outputPortId": "10002149_0_1",
+            "target": "10002152"
+        },
+        {
+            "d": "M 332 42 Q 332 72 457 66.5 T 582 91",
+            "inputPortId": "10002153_1_1",
+            "runStyle": "",
+            "id": "10002149_0_1_10002153_1_1",
+            "source": "10002149",
+            "outputPortId": "10002149_0_1",
+            "target": "10002153"
+        },
+        {
+            "d": "M 333 47 Q 333 97 298 109 T 263 171",
+            "inputPortId": "10002154_1_1",
+            "runStyle": "",
+            "id": "10002149_0_1_10002154_1_1",
+            "source": "10002149",
+            "outputPortId": "10002149_0_1",
+            "target": "10002154"
+        },
+        {
+            "d": "M 332 42 Q 332 92 401.5 105.5 T 471 169",
+            "inputPortId": "10002155_1_1",
+            "runStyle": "",
+            "id": "10002149_0_1_10002155_1_1",
+            "source": "10002149",
+            "outputPortId": "10002149_0_1",
+            "target": "10002155"
+        }
